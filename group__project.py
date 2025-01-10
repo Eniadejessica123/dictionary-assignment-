@@ -26,9 +26,29 @@ def display_dictionary(language):
        #Temitope Ayomide Elizabeth
         'Yoruba.dic': {''},
         #Ezeanah Joseph Chiemerie
-        'Igbo.dic': {''},
+        'Igbo.dic': {
+	"Bia": "Come",
+	"Nri": "Food",
+	"Mmiri": "Water",
+	"Efere": "Plate",
+	"Iko": "Cup",
+	"Nkita": "Dog",
+	"Oke": "Rat",
+	"Osikapa": "Rice",
+	"Gbaa oso": "Run",
+	"Ututu": "Morning",
+	"Daalu": "Thank You",
+	"Enyi": "Friend",
+	"Biko": "Please",
+	"Ezinulo": "Family",
+	"Akwukwo": "Book",
+	"Akwa": "Bed",
+	"Uka": "Church",
+	"Agwa": "Beans",
+	"Ahia": "Market",
+	"Ngaji": "Spoon"},
         #Ganiyu Glory Toluwani
-        'Spanish.dic': {' 
+        'Spanish.dic': { 
     "hola": "hello",
     "mundo": "world",
     "gracias": "thank you",
@@ -87,7 +107,7 @@ def display_dictionary(language):
 # Create main window
 root = tk.Tk()
 root.title("Dictionaries App")
-root.geometry("800x70")
+root.geometry("550x800")
 root.configure(bg='#f0f0f0')
 
 # Add a title label
