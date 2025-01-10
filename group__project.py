@@ -28,7 +28,28 @@ def display_dictionary(language):
         #Ezeanah Joseph Chiemerie
         'Igbo.dic': {''},
         #Ganiyu Glory Toluwani
-        'Spanish.dic': {''},
+        'Spanish.dic': {' 
+    "hola": "hello",
+    "mundo": "world",
+    "gracias": "thank you",
+    "adios": "goodbye",
+    "por favour": "please",
+    "amigo": "friend",
+    "familia": "family",
+    "comida": "food",
+    "escula": "school",
+    "feliz": "happy",
+    "casa": "house",
+    "perro": "dog",
+    "agua": "water",
+    "amor": "love",
+    "libro": "book",
+    "gato": "cat",
+    "coche": "car",
+    "noche": "night",
+    "sol": "sun",
+    "luna": "moon",
+}'},
         #AKINROGBE EMMANUELLA
         'Hausa.dic':{'Hausa_dictionary ={
     "Gida": "house",
