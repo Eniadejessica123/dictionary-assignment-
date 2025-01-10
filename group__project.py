@@ -51,7 +51,7 @@ def display_dictionary(language):
     "luna": "moon",
     },
         #AKINROGBE EMMANUELLA
-        'Hausa.dic':{'Hausa_dictionary ={
+        'Hausa.dic':{
     "Gida": "house",
     "ruwa": "water",
     "mota": "car",
@@ -72,7 +72,7 @@ def display_dictionary(language):
     "jirgi": "airplane",
     "baki": "mouth",
     "hanya": "road",
-                    '}
+                    }
     }
     # Format dictionary output for readability
     selected_dict = dictionaries.get(language, 'Not available')
