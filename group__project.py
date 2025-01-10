@@ -30,7 +30,28 @@ def display_dictionary(language):
         #Ganiyu Glory Toluwani
         'Spanish.dic': {''},
         #AKINROGBE EMMANUELLA
-        'Hausa.dic':{''}
+        'Hausa.dic':{'Hausa_dictionary ={
+    "Gida": "house",
+    "ruwa": "water",
+    "mota": "car",
+    "kudi": "money",
+    "gashi": "hair",
+    "kifi": "fish",
+    "suna": "name",
+    "gari": "town",
+    "jin": "hear",
+    "gani": "see",
+    "makaranta": "school",
+    "yara": "boy",
+    "kofa": "door",
+    "doki": "horse",
+    "wuta": "fire",
+    "hanci": "nose",
+    "dabba": "animal",
+    "jirgi": "airplane",
+    "baki": "mouth",
+    "hanya": "road",
+                    '}
     }
     # Format dictionary output for readability
     selected_dict = dictionaries.get(language, 'Not available')
