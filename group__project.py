@@ -49,7 +49,7 @@ def display_dictionary(language):
     "noche": "night",
     "sol": "sun",
     "luna": "moon",
-}'},
+    },
         #AKINROGBE EMMANUELLA
         'Hausa.dic':{'Hausa_dictionary ={
     "Gida": "house",
