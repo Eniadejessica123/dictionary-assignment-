@@ -24,27 +24,7 @@ def display_dictionary(language):
                   'ota': 'evening',
                   'owie': 'morning'},
        #Temitope Ayomide Elizabeth
-        'Yoruba.dic': {
-    'sare': 'run' ,
-    'ibawo': 'when' ,
-    'aaro': 'morning' ,
-    'irole': 'evening' ,
-    'bata': 'shoe' ,
-    'ina': 'light' ,
-    'agbara': 'power',
-    'fila': 'cap' ,
-    'irun': 'hair' ,
-    'iwasu': 'preach' ,
-    'irinajo': 'journey' ,
-    'aso': 'cloth' ,
-    'ounje': 'food' ,
-    'iwaju': 'front' ,
-    'kiniun': 'lion' ,
-    'dobale': 'postrate' ,
-    'ewa': 'beauty' ,
-    'kini': 'what' ,
-    'ife': 'love' ,
-    'ago': 'watch' ,},
+        'Yoruba.dic': {},
         #Ezeanah Joseph Chiemerie
         'Igbo.dic': {
 	"Bia": "Come",
